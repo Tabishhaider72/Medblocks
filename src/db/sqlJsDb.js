@@ -1,4 +1,4 @@
-import initSqlJs from 'sql.js';
+import initSqlJs from 'sql.js/dist/sql-wasm.js';
 
 let db;
 let SQL;
