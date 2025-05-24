@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
-import image from '../assets/image.PNG';
+import image from '../assets/image.png';
 
 export default function Home() {
   return (
